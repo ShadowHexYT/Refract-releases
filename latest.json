@@ -1,19 +1,19 @@
 {
-  "version": "1.4.1",
-  "notes": "**Changed**\r\n- Refract now downloads and updates from its official public page, **github.com/ShadowHexYT/Refract-releases**, which only holds the installers. Each release lists SHA-256 fingerprints so you can check your download is the real one.\r\n- If you're on an older version, download this one from that page once; after that updates are automatic again.",
-  "pub_date": "2026-11-05T16:39:39Z",
+  "version": "1.5.0",
+  "notes": "**New**\r\n- **Kick and YouTube streams** play in Refract's own player, right next to your Twitch streams in multiview. Paste a link like `kick.com/name`, `youtube.com/@name` or a YouTube live video link into the search bar, + chat tab or Ctrl+K.\r\n- **Read Kick and YouTube chat** in Refract, with their emotes, badges, subs, Super Chats and memberships. To send a message, use the **Chat on Kick/YouTube** button under their chat.\r\n- **Link Kick and YouTube channels**: they get their own **Kick & YouTube** section in the sidebar showing who's live, with the same go-live alerts as Twitch (Settings → Streams → Kick & YouTube, or the + in the sidebar).\r\n- Small Kick (green K) and YouTube (red ▶) marks on tiles, chat tabs and the sidebar so you can tell them apart. Twitch stays the default.\r\n\r\n**Fixed**\r\n- **Chat looks much cleaner**: messages line up properly and wrap neatly under the name, emotes sit on the line instead of stretching it, and long links are shortened (hover to see the full link). Clicking a clip link plays it in Refract, and a twitch.tv channel link opens that stream.",
+  "pub_date": "2026-11-05T17:07:25Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUHBCS0ErQ09SZlEwcXg3S2JLOTYwaGpCMUdsdzR1RkIraVIrZWdVRmUvcUZZVVRPeWswdFVXbC9kV2dDbDdvUUFXc08ydUFkdXFmSUtWQkZOK2tFREFsazJjYzFHNUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk2NzcwCWZpbGU6UmVmcmFjdF8xLjQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS40LjEKK3ZIQWVWNjBMSGdJdDNmcG5FR1ZRay8xZlZpZU9PWklmNUMvM3VYMTh6by9FTEswS1Z2QkYwZG9CMjBtaG5sSHQ2TUpia1d2VUlOSUtqSkpDUWtDREE9PQo=",
-      "url": "https://github.com/ShadowHexYT/Refract-releases/releases/download/v1.4.1/Refract_1.4.1_x64-setup.exe"
+      "url": "https://github.com/ShadowHexYT/Refract-releases/releases/download/v1.5.0/Refract_1.5.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUHBCS0ErQ09SZlVXQmErQUg1QTIyRnJ2WlNjeWlUcnl6SmxjZzJhUStFaUp4a1pMa0ZXU2RrdkVaRHVuVTZsT1lFVUkzMndTdnhJeFFjdXNYaDdHSUhJbWN1QTNWT2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk4NDM2CWZpbGU6UmVmcmFjdF8xLjUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS41LjAKaXR4bndkMmxuTityaUd1K3ZiZFFBNWhoVFlNVkFGZUdEMmVFdkJHRWJmRkFaSXh3Rkt3c3RHbDNpNzREZGJpVDZESHdRbzZWNTEwNmVTaFNpRlhnQnc9PQo="
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUHBCS0ErQ09SZlEwcXg3S2JLOTYwaGpCMUdsdzR1RkIraVIrZWdVRmUvcUZZVVRPeWswdFVXbC9kV2dDbDdvUUFXc08ydUFkdXFmSUtWQkZOK2tFREFsazJjYzFHNUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk2NzcwCWZpbGU6UmVmcmFjdF8xLjQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS40LjEKK3ZIQWVWNjBMSGdJdDNmcG5FR1ZRay8xZlZpZU9PWklmNUMvM3VYMTh6by9FTEswS1Z2QkYwZG9CMjBtaG5sSHQ2TUpia1d2VUlOSUtqSkpDUWtDREE9PQo=",
-      "url": "https://github.com/ShadowHexYT/Refract-releases/releases/download/v1.4.1/Refract_1.4.1_x64-setup.exe"
+      "url": "https://github.com/ShadowHexYT/Refract-releases/releases/download/v1.5.0/Refract_1.5.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUHBCS0ErQ09SZlVXQmErQUg1QTIyRnJ2WlNjeWlUcnl6SmxjZzJhUStFaUp4a1pMa0ZXU2RrdkVaRHVuVTZsT1lFVUkzMndTdnhJeFFjdXNYaDdHSUhJbWN1QTNWT2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk4NDM2CWZpbGU6UmVmcmFjdF8xLjUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS41LjAKaXR4bndkMmxuTityaUd1K3ZiZFFBNWhoVFlNVkFGZUdEMmVFdkJHRWJmRkFaSXh3Rkt3c3RHbDNpNzREZGJpVDZESHdRbzZWNTEwNmVTaFNpRlhnQnc9PQo="
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUHBCS0ErQ09SZmQreEpTR0Q1ODVVbnhTdFhWVVN0Tjk3VjYxK3E3L0J2UFI0aHkyS09qMEU3Q2J3MWZDYlBnOFIxcnJ2Z1BnMHhvOCtGcmhiellkQ3lQSndPRUJpYUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk2NzcwCWZpbGU6UmVmcmFjdF8xLjQuMV94NjRfZW4tVVMubXNpCXZlcnNpb246MS40LjEKWUJ0Wnk3OFhHVFMyZ3JKZnNmTlZLUHM5bHRkVDdOM2xlUVZlNjJxclVLNTduU1RJZ2lkYzZaM3o3NUNNT0M0OTBScEpnTGFYbjJ0NkpKaGREZUI2RGc9PQo=",
-      "url": "https://github.com/ShadowHexYT/Refract-releases/releases/download/v1.4.1/Refract_1.4.1_x64_en-US.msi"
+      "url": "https://github.com/ShadowHexYT/Refract-releases/releases/download/v1.5.0/Refract_1.5.0_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUHBCS0ErQ09SZmFYYUtJVmt3SE5STTRrM0thbzJyOFEwMTJMaGdQK0FXV0hZV1ZPRnZJelQvRm4vYitVeThQenFtRTFBYWYycEtWYnNGVEhIVkVMSCsrMEVCZG5BUGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk4NDM2CWZpbGU6UmVmcmFjdF8xLjUuMF94NjRfZW4tVVMubXNpCXZlcnNpb246MS41LjAKU2VXcDlIcmd5V081VS9XbW1kdnNLVXhxRlh1QlBCQWR6SzM1Uk51bWdMcXN3SGp3MHFRQkdibXg5Z3JQclBySE52a0ZDcHg2Uk9lVXVWWEtyQlU5QlE9PQo="
     }
   }
 }
