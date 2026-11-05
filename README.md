@@ -19,4 +19,4 @@ A desktop Twitch app for Windows: watch up to 4 streams at once, Chatterino-styl
   open PowerShell in your Downloads folder and run `Get-FileHash .\Refract_X.Y.Z_x64-setup.exe`.
 - Updates from inside the app are signed. Refract refuses to install an update that wasn't signed by us.
 
-Latest version: **v1.6.0** (2026-11-05)
+Latest version: **v1.7.0** (2026-11-05)
