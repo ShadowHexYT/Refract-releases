@@ -1,0 +1,19 @@
+{
+  "version": "1.4.1",
+  "notes": "**Changed**\r\n- Refract now downloads and updates from its official public page, **github.com/ShadowHexYT/Refract-releases**, which only holds the installers. Each release lists SHA-256 fingerprints so you can check your download is the real one.\r\n- If you're on an older version, download this one from that page once; after that updates are automatic again.",
+  "pub_date": "2026-11-05T16:39:39Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUHBCS0ErQ09SZlEwcXg3S2JLOTYwaGpCMUdsdzR1RkIraVIrZWdVRmUvcUZZVVRPeWswdFVXbC9kV2dDbDdvUUFXc08ydUFkdXFmSUtWQkZOK2tFREFsazJjYzFHNUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk2NzcwCWZpbGU6UmVmcmFjdF8xLjQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS40LjEKK3ZIQWVWNjBMSGdJdDNmcG5FR1ZRay8xZlZpZU9PWklmNUMvM3VYMTh6by9FTEswS1Z2QkYwZG9CMjBtaG5sSHQ2TUpia1d2VUlOSUtqSkpDUWtDREE9PQo=",
+      "url": "https://github.com/ShadowHexYT/Refract-releases/releases/download/v1.4.1/Refract_1.4.1_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUHBCS0ErQ09SZlEwcXg3S2JLOTYwaGpCMUdsdzR1RkIraVIrZWdVRmUvcUZZVVRPeWswdFVXbC9kV2dDbDdvUUFXc08ydUFkdXFmSUtWQkZOK2tFREFsazJjYzFHNUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk2NzcwCWZpbGU6UmVmcmFjdF8xLjQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS40LjEKK3ZIQWVWNjBMSGdJdDNmcG5FR1ZRay8xZlZpZU9PWklmNUMvM3VYMTh6by9FTEswS1Z2QkYwZG9CMjBtaG5sSHQ2TUpia1d2VUlOSUtqSkpDUWtDREE9PQo=",
+      "url": "https://github.com/ShadowHexYT/Refract-releases/releases/download/v1.4.1/Refract_1.4.1_x64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUHBCS0ErQ09SZmQreEpTR0Q1ODVVbnhTdFhWVVN0Tjk3VjYxK3E3L0J2UFI0aHkyS09qMEU3Q2J3MWZDYlBnOFIxcnJ2Z1BnMHhvOCtGcmhiellkQ3lQSndPRUJpYUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk2NzcwCWZpbGU6UmVmcmFjdF8xLjQuMV94NjRfZW4tVVMubXNpCXZlcnNpb246MS40LjEKWUJ0Wnk3OFhHVFMyZ3JKZnNmTlZLUHM5bHRkVDdOM2xlUVZlNjJxclVLNTduU1RJZ2lkYzZaM3o3NUNNT0M0OTBScEpnTGFYbjJ0NkpKaGREZUI2RGc9PQo=",
+      "url": "https://github.com/ShadowHexYT/Refract-releases/releases/download/v1.4.1/Refract_1.4.1_x64_en-US.msi"
+    }
+  }
+}
